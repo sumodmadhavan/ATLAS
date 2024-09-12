@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+SKILL_LEXICON	atlas_resume_matcher.py	/^SKILL_LEXICON = {$/;"	v
+args	atlas_resume_matcher.py	/^    args = parser.parse_args()$/;"	v
+base_folder	atlas_resume_matcher.py	/^    base_folder = os.getcwd()$/;"	v
+calculate_skill_match	atlas_resume_matcher.py	/^def calculate_skill_match(job_skills, resume_skills):$/;"	f
+extract_skills_from_text	atlas_resume_matcher.py	/^def extract_skills_from_text(text):$/;"	f
+extract_text_from_doc	atlas_resume_matcher.py	/^def extract_text_from_doc(content):$/;"	f
+fuzzy_match_score	atlas_resume_matcher.py	/^def fuzzy_match_score(text1, text2):$/;"	f
+match_resumes_to_jds	atlas_resume_matcher.py	/^def match_resumes_to_jds(base_folder, resume_folder, jd_folder, output_file, threshold):$/;"	f
+parser	atlas_resume_matcher.py	/^    parser = argparse.ArgumentParser(description="ATLAS: Automated Talent Locator and Assessor System")$/;"	v
+preprocess_text	atlas_resume_matcher.py	/^def preprocess_text(text):$/;"	f
+read_doc	atlas_resume_matcher.py	/^def read_doc(file_path):$/;"	f
+read_file	atlas_resume_matcher.py	/^def read_file(file_path):$/;"	f
