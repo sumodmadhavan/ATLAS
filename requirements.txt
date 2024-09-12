@@ -1,16 +1,10 @@
-# ATLAS: Automated Talent Locator and Assessor System
-# Requirements file
-
-# Text processing
+nltk==3.8.1
+scikit-learn==1.2.2
+numpy==1.24.3
+scipy==1.10.1
+joblib==1.2.0
+threadpoolctl==3.1.0
 fuzzywuzzy==0.18.0
-python-Levenshtein==0.12.2
-
-# Document handling
+python-Levenshtein==0.21.0
 docx2txt==0.8
-pdfminer.six==20220524
-
-# Command line argument parsing
-argparse==1.4.0
-
-# Other utilities
-python-dateutil==2.8.2
+pdfminer.six==20221105
